@@ -1,0 +1,7 @@
+{
+  "name": "beacon-service-post",
+  "main": "index.js",
+  "dependencies": {
+    "shortid": "^2.2.6"
+  }
+}

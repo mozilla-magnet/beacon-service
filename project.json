@@ -1,0 +1,9 @@
+
+{
+  "name": "beacon-service",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::162286888246:role/beacon-service_lambda_function",
+  "environment": {}
+}
